@@ -3,6 +3,7 @@ The project is divided into two parts:
 - **core_lib:** This is a Rust library that encompasses all the logic necessary for discovering, connecting to, and transferring files to QuickShare-compatible clients.
 - **app/main:** A Tauri application that utilizes core_lib to handle incoming requests and initiate outgoing ones.
 
+
 How to build
 --------------------------
 
